@@ -1,2 +1,2 @@
-# sit737-2025-prac5d
+# Calculator Microservice Deployment on Google Cloud Platform (GCP)
 Dockerized Node.js Calculator Microservice Deployment on GCP. It supports basic arithmetic operations with input validation, logging via Winston, Docker Compose deployment, and health checks for container monitoring.
